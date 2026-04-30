@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/perf_playground.dir/src/main.cpp.o CMakeFiles/perf_playground.dir/src/aos_vs_soa.cpp.o -o perf_playground
