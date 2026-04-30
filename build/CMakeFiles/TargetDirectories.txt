@@ -1,3 +1,0 @@
-/Users/benjaminhardy/dev/learning/performance_playground/build/CMakeFiles/perf_playground.dir
-/Users/benjaminhardy/dev/learning/performance_playground/build/CMakeFiles/edit_cache.dir
-/Users/benjaminhardy/dev/learning/performance_playground/build/CMakeFiles/rebuild_cache.dir
