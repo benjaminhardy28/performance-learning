@@ -3,6 +3,7 @@
 
 void run_aos_vs_soa();
 void run_false_sharing();
+void run_branch_prediction();
 
 int main(int argc, char* argv[]) {
     if (argc < 2) {
@@ -19,6 +20,8 @@ int main(int argc, char* argv[]) {
         run_aos_vs_soa();
     } else if (benchmark == "false_sharing") {
         run_false_sharing();
+    } else if (benchmark == "branch_prediction"){
+        run_branch_prediction();
     } else {
         std::cout << "Unknown benchmark: " << benchmark << "\n";
         return 1;
